@@ -1,0 +1,10 @@
+1) Create Directory Structure
+2) Create a NPM project and install all dependencies
+  -Dependencies
+        - express
+        -ejs express-ejs-layout
+  - Dev dependencies
+        - nodemon
+3) Create Express server - Create a server.js file  
+4) Git setup and first commit
+            
